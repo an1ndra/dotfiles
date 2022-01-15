@@ -1,0 +1,59 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.1920.1080" x="722" y="98" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1920" height="328" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1920" height="328" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1920" height="328" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1920" height="328" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="701" height="958" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="701" height="958" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="701" height="958" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="701" height="958" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1920" height="397" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1920" height="397" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1920" height="397" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1920" height="397" />
+    <size key="find.popup.0.0.1920.1080" width="551" height="520" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="-37" width="1920" height="1117" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="857" y="383" width="590" height="210" key="#Custom_Plugin_Repositories" timestamp="1642079791620">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="857" y="383" width="590" height="210" key="#Custom_Plugin_Repositories/0.0.1920.1080" timestamp="1642079791620" />
+    <state x="843" y="232" width="224" height="513" key="#Manage_Plugin_Certificates" timestamp="1642079798991">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="843" y="232" width="224" height="513" key="#Manage_Plugin_Certificates/0.0.1920.1080" timestamp="1642079798991" />
+    <state x="692" y="243" width="424" height="520" key="FileChooserDialogImpl" timestamp="1642087212405">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="692" y="243" width="424" height="520" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1642087212405" />
+    <state x="1419" y="790" width="300" height="258" key="ProcessPopupWindow" timestamp="1642087278452">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1419" y="790" width="300" height="258" key="ProcessPopupWindow/0.0.1920.1080" timestamp="1642087278452" />
+    <state x="456" y="120" width="1007" height="737" key="SettingsEditor" timestamp="1642001611147">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="456" y="120" width="1007" height="737" key="SettingsEditor/0.0.1920.1080" timestamp="1642001611147" />
+    <state x="960" y="485" width="1190" height="750" key="WELCOME_SCREEN" timestamp="1642098042767">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="960" y="485" width="1190" height="750" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1642098042767" />
+    <state x="376" y="86" width="965" height="852" key="new project wizard" timestamp="1642059570123">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="376" y="86" width="965" height="852" key="new project wizard/0.0.1920.1080" timestamp="1642059570123" />
+  </component>
+</application>

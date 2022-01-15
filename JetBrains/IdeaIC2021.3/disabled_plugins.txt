@@ -1,0 +1,8 @@
+DevKit
+MavenRunHelper
+com.intellij.marketplace
+com.jetbrains.space
+org.intellij.qodana
+tanvd.grazi
+training
+training.git

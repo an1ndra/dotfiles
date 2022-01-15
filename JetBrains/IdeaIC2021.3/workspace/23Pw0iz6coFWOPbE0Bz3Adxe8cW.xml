@@ -1,0 +1,181 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="java" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/codeavenge/dsapractice/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="2" lastUsed="1641650368742" />
+    </fileType>
+    <fileType name="IDEA_MODULE">
+      <summary usageCount="2" lastUsed="1641650368624" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="6" lastUsed="1641906349932" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/com/codeavenge/dsapractice/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dsapractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.40046299" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Dart Analysis" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="right" id="Space Automation" order="0" />
+      <window_info anchor="right" id="Flutter Performance" order="1" />
+      <window_info anchor="right" id="Layout Validation" order="2" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Flutter Inspector" order="4" />
+      <window_info anchor="right" id="Run" order="5" weight="0.3658854" />
+      <window_info anchor="right" id="documentation.v2" order="6" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="701" y="240" width="538" height="611" key="FileChooserDialogImpl" timestamp="1641706828350">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="701" y="240" width="538" height="611" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1641706828350" />
+    <state width="701" height="958" key="GridCell.Tab.0.bottom" timestamp="1641653371819">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="701" height="958" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1641653371819" />
+    <state width="701" height="958" key="GridCell.Tab.0.center" timestamp="1641653371819">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="701" height="958" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1641653371819" />
+    <state width="701" height="958" key="GridCell.Tab.0.left" timestamp="1641653371819">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="701" height="958" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1641653371819" />
+    <state width="701" height="958" key="GridCell.Tab.0.right" timestamp="1641653371819">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="701" height="958" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1641653371819" />
+    <state width="1920" height="397" key="GridCell.Tab.1.bottom" timestamp="1641650143853">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="397" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1641650143853" />
+    <state width="1920" height="397" key="GridCell.Tab.1.center" timestamp="1641650143853">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="397" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1641650143853" />
+    <state width="1920" height="397" key="GridCell.Tab.1.left" timestamp="1641650143853">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="397" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1641650143853" />
+    <state width="1920" height="397" key="GridCell.Tab.1.right" timestamp="1641650143853">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="397" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1641650143853" />
+    <state x="319" y="26" width="1353" height="926" key="SettingsEditor" timestamp="1641650359785">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="319" y="26" width="1353" height="926" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1641650359785" />
+    <state width="800" height="330" key="ShowBookmarks" timestamp="1641652684479">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="800" height="330" key="ShowBookmarks/0.0.1920.1080@0.0.1920.1080" timestamp="1641652684479" />
+    <state x="275" y="123" width="1401" height="838" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1641649118303">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="275" y="123" width="1401" height="838" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1641649118303" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/java/com/codeavenge/dsapractice/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codeavenge/dsapractice/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

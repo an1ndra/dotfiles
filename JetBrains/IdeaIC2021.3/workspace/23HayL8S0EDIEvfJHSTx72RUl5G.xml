@@ -1,0 +1,207 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="DSA practice" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/codeavenge/dsapractice/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" selection-start-line="14" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/Stack.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="2" lastUsed="1641641806864" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="2" lastUsed="1641641806532" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/com/codeavenge/dsapractice/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DSA practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codeavenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codeavenge" type="462c0819:PsiDirectoryNode" />
+              <item name="dsapractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dsapractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16015625" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32969886" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Dart Analysis" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Space Automation" order="0" />
+      <window_info anchor="right" id="Flutter Outline" order="1" />
+      <window_info anchor="right" id="documentation.v2" order="2" side_tool="true" />
+      <window_info anchor="right" id="Flutter Performance" order="3" />
+      <window_info anchor="right" id="Layout Validation" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1400" height="289" key="GridCell.Tab.0.bottom" timestamp="1641398210781">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1400" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1641398210781" />
+    <state width="1400" height="289" key="GridCell.Tab.0.center" timestamp="1641398210781">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1400" height="289" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1641398210781" />
+    <state width="1400" height="289" key="GridCell.Tab.0.left" timestamp="1641398210781">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1400" height="289" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1641398210781" />
+    <state width="1400" height="289" key="GridCell.Tab.0.right" timestamp="1641398210781">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1400" height="289" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1641398210781" />
+    <state x="464" y="175" width="992" height="737" key="SettingsEditor" timestamp="1641393792711">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="464" y="175" width="992" height="737" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1641393792711" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/codeavenge/dsapractice/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/Stack.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

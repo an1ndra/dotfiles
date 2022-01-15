@@ -1,0 +1,197 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bootapp" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codeavenge/bootapp/DemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="1" lastUsed="1642088266756" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="1" lastUsed="1642088270395" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1642088273555" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bootapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootapp" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootapp" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bootapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="com.haulmont.jpb.jpaStructure" order="5" side_tool="true" visible="true" weight="0.2502604" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3300926" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Dart Analysis" order="5" />
+      <window_info anchor="bottom" id="Build" order="5" />
+      <window_info anchor="bottom" id="Dependencies" order="5" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Flutter Outline" order="5" />
+      <window_info anchor="right" id="Flutter Performance" order="5" />
+      <window_info anchor="right" id="com.haulmont.jpb.jpaInspector" order="5" side_tool="true" />
+      <window_info anchor="right" id="Layout Validation" order="5" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="com.haulmont.jpb.jpaPalette" order="5" />
+      <window_info anchor="right" id="documentation.v2" order="6" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>com.haulmont.jpb.jpaStructure</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1920" height="328" key="GridCell.Tab.0.bottom" timestamp="1642088319839">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1642088319839" />
+    <state width="1920" height="328" key="GridCell.Tab.0.center" timestamp="1642088319839">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="328" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1642088319839" />
+    <state width="1920" height="328" key="GridCell.Tab.0.left" timestamp="1642088319839">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="328" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1642088319839" />
+    <state width="1920" height="328" key="GridCell.Tab.0.right" timestamp="1642088319839">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="328" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1642088319839" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codeavenge/bootapp/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

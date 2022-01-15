@@ -1,0 +1,259 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="untitled" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1641971206426" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.example</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/pom.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="untitled" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="untitled" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="58d84e3e:PackageViewProjectNode" />
+              <item name="untitled" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="untitled" type="58d84e3e:PackageViewProjectNode" />
+              <item name="untitled" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Open Files'; set:Open Files; class com.intellij.openapi.fileEditor.impl.OpenFilesScope">
+          <expand>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="untitled" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/IdeaProjects/untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/IdeaProjects/untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/IdeaProjects/untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/IdeaProjects/untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" visible="true" weight="0.3300926" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Dart Analysis" order="5" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.3300926" />
+      <window_info anchor="bottom" id="Dependencies" order="5" weight="0.55601853" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.2736979" />
+      <window_info anchor="right" id="documentation.v2" order="5" side_tool="true" />
+      <window_info anchor="right" id="Flutter Performance" order="5" />
+      <window_info anchor="right" id="Layout Validation" order="5" />
+      <window_info anchor="right" id="Flutter Outline" order="5" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Maven</value>
+      <value>TODO</value>
+      <value>Dependencies</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="99" width="1024" height="852" key="#Project_Structure" timestamp="1641972261420">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="443" y="99" width="1024" height="852" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1641972261420" />
+    <state x="768" y="240" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1641971839932">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="768" y="240" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1641971839932" />
+    <state x="493" y="179" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1641971852359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="493" y="179" width="924" height="691" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1641971852359" />
+    <state x="456" y="156" width="1007" height="737" key="SettingsEditor" timestamp="1641972178948">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="456" y="156" width="1007" height="737" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1641972178948" />
+    <state x="722" y="98" width="573" height="780" key="find.popup" timestamp="1641972248988">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="722" y="98" width="573" height="780" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1641972248988" />
+    <state x="623" y="211" width="672" height="686" key="search.everywhere.popup" timestamp="1641971464889">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="211" width="672" height="686" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1641971464889" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>untitled</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

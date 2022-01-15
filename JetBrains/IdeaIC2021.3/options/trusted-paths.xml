@@ -1,0 +1,21 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/simple-chess-clock" value="true" />
+        <entry key="$USER_HOME$/Downloads/Google/bootapp" value="true" />
+        <entry key="$USER_HOME$/Downloads/SpringBoot" value="true" />
+        <entry key="$USER_HOME$/Downloads/Spring_Project" value="true" />
+        <entry key="$USER_HOME$/Downloads/bootapp" value="true" />
+        <entry key="$USER_HOME$/Downloads/maven-intellij" value="true" />
+        <entry key="$USER_HOME$/Downloads/maven-project" value="true" />
+        <entry key="$USER_HOME$/Downloads/springBoot" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/DSA practice" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/Java" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/java" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/maven_project" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/untitled" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

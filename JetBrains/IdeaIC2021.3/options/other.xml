@@ -1,0 +1,136 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="23HayL8S0EDIEvfJHSTx72RUl5G">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23Pw0iz6coFWOPbE0Bz3Adxe8cW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23Rpcjdp8FgBROJOQWjmEFfQaE6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23YMKCOkcOp7q4Phrhv2rXRrl3X">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23aTShJezCrEF7Wj4iRJnvAHAJv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23aVqUOHYKDB0xtJPZfCNpCnpYI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23aXJryBqFqVqFAHnEfBM8h70i1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23bSHBlWKwetQn2F1sZCPcoGEpm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23bTMm42EGxYYztzgXhhYI1AiUW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23dL3JzJL691yxmGIdhmkxejDf9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23dLSldVFqjHU5GJl0FKBPtRmKV">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23eGcFPAzcKz3fbQsa5e2gpRYgZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23eIfN7DOWDZq4KTVRlpa6UmWzP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="IJ_BASE_PACKAGE" value="com.codeavenge.java" />
+    <property name="InstalledPluginsSearchHistory" value="spring&#10;sprin&#10;spri&#10;spr&#10;sp" />
+    <property name="KEYMAP" value="search" />
+    <property name="MarketplacePluginsSearchHistory" value="spring boot&#10;spring&#10;spr&#10;sp&#10;s" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
+    <property name="SettingsSearchHistory" value="search&#10;TODO&#10;font" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.72291666" />
+    <property name="appcds.runOnSecondStart" value="IC-213.6461.79-967adf56a54c986d012184266a47d6fdc821550c74d189694687e986172299d6" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="bundled.plugins.list.saved.version" value="IC-213.6461.79" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/bootapp/pom.xml&#10;/home/anindra/Downloads/Google/bootapp/pom.xml&#10;/home/anindra/Downloads/SpringBoot/pom.xml&#10;/home/anindra/Downloads/Spring_Project&#10;/home/anindra/Documents/simple-chess-clock&#10;/home/anindra/Pictures/dark-blue-abstract-art-x8nyvxrb52v9nakd.jpg" />
+    <property name="file.gist.reindex.count" value="109" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="got.it.tooltip.terminal.smart_command_execution" value="1" />
+    <property name="gotit.previous.run" value="IC-213.6461.79" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="idea.background.editor" value="$USER_HOME$/Pictures/dark-blue-abstract-art-x8nyvxrb52v9nakd.jpg,29,scale,center" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="213-1.6.10-release-923-IJ5744.223" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="io.flutter.console.preferencesSet" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="kotlin.plugin.releaseDate" value="213-1.6.10-release-923-IJ5744.223:2021-12-14" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Google/bootapp/pom.xml" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1642001202637" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.InternalGradleModuleBuilder" />
+    <property name="project.wizard.template" value="Multi-module Project" />
+    <property name="registry.to.advanced.settings.migration.build" value="IC-213.6461.79" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="simple-chess-clock-history" project-path="$USER_HOME$/Documents/simple-chess-clock" last-access-time="1641746976962" />
+      <command-history-file filename="maven-project-history1" project-path="$USER_HOME$/Downloads/maven-project" last-access-time="1642002671954" />
+    </command-history-files>
+  </component>
+</application>

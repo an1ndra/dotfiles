@@ -1,0 +1,316 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="5" l="1641908700234" />
+    </e>
+    <e n="$Delete">
+      <i c="1" l="1641972523071" />
+    </e>
+    <e n="$Undo">
+      <i c="18" l="1642006578907" />
+    </e>
+    <e n="Android Profiler">
+      <i c="1" l="1641707716528" />
+    </e>
+    <e n="Android.WearDevicePairing">
+      <i c="1" l="1641707723408" />
+    </e>
+    <e n="CloseProject">
+      <i c="14" l="1642088319828" />
+    </e>
+    <e n="CollapseAll">
+      <i c="1" l="1642003938075" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="3" l="1641907657625" />
+    </e>
+    <e n="CompileDirty">
+      <i c="3" l="1641707385075" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1641649261415" />
+    </e>
+    <e n="EditSource">
+      <i c="1" l="1642004408450" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="315" l="1642058891081" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="93" l="1641972818525" />
+    </e>
+    <e n="EditorDelete">
+      <i c="2" l="1641972117056" />
+    </e>
+    <e n="EditorDown">
+      <i c="31" l="1641908217960" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="3" l="1641393855160" />
+    </e>
+    <e n="EditorEnter">
+      <i c="53" l="1642058828559" />
+    </e>
+    <e n="EditorLeft">
+      <i c="5" l="1641972836686" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="34" l="1641972838569" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1641652658513" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1642001191794" />
+    </e>
+    <e n="EditorRight">
+      <i c="1" l="1641393859691" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="2" l="1641652759645" />
+    </e>
+    <e n="EditorTab">
+      <i c="70" l="1642002123304" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="19" l="1642002128011" />
+    </e>
+    <e n="EditorUp">
+      <i c="7" l="1641888340313" />
+    </e>
+    <e n="Exit">
+      <i c="3" l="1641920236538" />
+    </e>
+    <e n="ExpandAll">
+      <i c="4" l="1642003937402" />
+    </e>
+    <e n="FileChooser.GotoDesktop">
+      <i c="2" l="1641973074005" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1641707589957" />
+    </e>
+    <e n="FindInPath">
+      <i c="3" l="1642003902804" />
+    </e>
+    <e n="Generate">
+      <i c="16" l="1642058879501" />
+    </e>
+    <e n="GenerateGetterAndSetter">
+      <i c="2" l="1641907455353" />
+    </e>
+    <e n="Github.Accounts.AddGHAccountWithToken">
+      <i c="1" l="1641650285436" />
+    </e>
+    <e n="GotoAction">
+      <i c="4" l="1642004956643" />
+    </e>
+    <e n="GotoClass">
+      <i c="2" l="1641971462575" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="7" l="1642003610574" />
+    </e>
+    <e n="Images.SetBackgroundImage">
+      <i c="1" l="1641648982273" />
+    </e>
+    <e n="MakeModule">
+      <i c="1" l="1642003160340" />
+    </e>
+    <e n="Maven.AddManagedFiles">
+      <i c="1" l="1642003165406" />
+    </e>
+    <e n="Maven.CollapseAll">
+      <i c="2" l="1642002147294" />
+    </e>
+    <e n="Maven.DownloadSelectedSources">
+      <i c="1" l="1642002646434" />
+    </e>
+    <e n="Maven.RunBuild">
+      <i c="6" l="1642059093886" />
+    </e>
+    <e n="Maven.ShowSettings">
+      <i c="1" l="1642003171960" />
+    </e>
+    <e n="Maven.ShowSettingsGroup">
+      <i c="1" l="1642003170165" />
+    </e>
+    <e n="NewClass">
+      <i c="4" l="1641972776719" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1642058972107" />
+    </e>
+    <e n="OpenFile">
+      <i c="4" l="1642088201822" />
+    </e>
+    <e n="OpenModuleSettings">
+      <i c="1" l="1642004045833" />
+    </e>
+    <e n="ProjectViewEditSource">
+      <i c="1" l="1641907527365" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1642088316508" />
+    </e>
+    <e n="Run">
+      <i c="12" l="1642003259653" />
+    </e>
+    <e n="RunAnything">
+      <i c="2" d="2" l="1642004962360" k="1642004962360" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1641972119292" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="2" l="1641650126384" />
+    </e>
+    <e n="ShowBookmarks">
+      <i c="1" l="1641652682620" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1641907150345" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="1" l="1641747888171" />
+    </e>
+    <e n="ShowSettings">
+      <i c="13" l="1642059170268" />
+    </e>
+    <e n="StepInto">
+      <i c="3" l="1641649288006" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1641649256992" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1642001189309" />
+    </e>
+    <e n="WelcomeScreen.CopyProjectPath">
+      <i c="1" l="1641972275836" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="12" l="1642059537588" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="3" l="1642086925695" />
+    </e>
+    <e n="com.haulmont.jpb.action.persistenceunit.PersistenceUnitStartupActivity$initDefaultPersistenceUnit1$1$action$1">
+      <i c="1" l="1642088309657" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SaveTemporaryAction">
+      <i c="1" l="1642003128573" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="2" l="1642003265998" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectTargetAction">
+      <i c="1" l="1641707340467" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
+      <i c="1" l="1641649241678" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="3" l="1642088297258" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="2" l="1641972247837" />
+    </e>
+    <e n="com.intellij.framework.detection.impl.FrameworkDetectionManager$4">
+      <i c="1" l="1641706841872" />
+    </e>
+    <e n="com.intellij.ide.ProjectGroupActionGroup">
+      <i c="4" l="1641648784114" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="4" l="1641887783136" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="1" l="1641650128528" />
+    </e>
+    <e n="com.intellij.ide.actions.ToolWindowMoveAction">
+      <i c="3" l="1641649228753" />
+    </e>
+    <e n="com.intellij.ide.actions.runAnything.ui.RunAnythingScrollingUtil$1">
+      <i c="1" l="1642004975747" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$2">
+      <i c="1" l="1642079787369" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$4">
+      <i c="1" l="1642079796810" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$InstallFromDiskAction">
+      <i c="1" l="1642079806112" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
+      <i c="3" l="1642079777539" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="3" l="1642079803280" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="6" l="1642088247083" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="8" l="1642003608444" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="8" l="1642004976291" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction">
+      <i c="1" l="1641907545326" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="19" l="1642059127636" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+      <i c="2" l="1642003141573" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
+      <i c="1" l="1641906750213" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="1" l="1642059573333" />
+    </e>
+    <e n="com.intellij.space.actions.SpaceMainToolBarAction">
+      <i c="1" l="1641650113176" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="1" l="1641907543285" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1642003218333" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1642003288957" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="1" l="1642004871796" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1641650052595" />
+    </e>
+    <e n="com.jetbrains.packagesearch.intellij.plugin.actions.AddDependencyAction">
+      <i c="1" l="1641971541785" />
+    </e>
+    <e n="defaultLombokData">
+      <i c="1" l="1641908070437" />
+    </e>
+    <e n="delombokData">
+      <i c="1" l="1641907996540" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="2" l="1642003268702" />
+    </e>
+    <e n="org.jetbrains.idea.maven.dom.generate.GenerateDependencyAction">
+      <i c="6" l="1642058881141" />
+    </e>
+    <e n="org.jetbrains.idea.maven.dom.generate.GenerateManagedDependencyAction">
+      <i c="1" l="1641971836589" />
+    </e>
+    <e n="org.jetbrains.idea.maven.dom.generate.MavenGenerateTemplateAction">
+      <i c="3" l="1641971824174" />
+    </e>
+  </component>
+</application>
