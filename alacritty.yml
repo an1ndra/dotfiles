@@ -1,0 +1,165 @@
+# Xterm color
+env:
+  TERM: xterm-256color
+
+# Font
+font:
+  normal:
+    family: Hack Nerd Font
+
+  bold:
+    family: Hack Nerd Font
+    style: Bold
+
+  italic:
+    family: Hack Nerd Font
+    style: Italic
+
+  bold_italic:
+    family: Hack Nerd Font
+    style: Bold Italic
+
+  size: 13.0
+
+mouse:
+    hide_when_typing: true
+
+selection:
+    save_to_clipboard: true
+
+cursor:
+    thickness: 0.11
+    vi_mode_style: Block
+
+# Key bindings
+key_bindings:
+    - { key: V,        mods: Super, action: Paste                }
+    - { key: C,        mods: Super, action: Copy                 }
+    - { key: Q,        mods: Super, action: Quit                 }
+    - { key: W,        mods: Super, action: Quit                 }
+    - { key: Equals,   mods: Super, action: IncreaseFontSize     }
+    - { key: Minus,    mods: Super, action: DecreaseFontSize     }
+    - { key: Key0,     mods: Super, action: ResetFontSize        }
+    - { key: End,      mods: Shift, action: ScrollToBottom       }
+    - { key: Home,     mods: Shift, action: ScrollToTop          }
+    # Since we cannot set zoom factor we bind keys multiple times
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: U,        mods: Super, action: IncreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    - { key: D,        mods: Super, action: DecreaseFontSize     }
+    # Vi mode
+    - { key: LBracket, mods: Control|Alt,  action: ToggleViMode  }
+    - { key: Q,        mode: Vi,           action: ToggleViMode  }
+    - { key: H,        mods: Shift, mode: Vi,  action: First     }
+    - { key: L,        mods: Shift, mode: Vi,  action: Last      }
+    # Tmux-like
+    - { key: P,        mods: Control|Alt,  action: Paste         }
+    # On OSX uncomment the following to enable alt maps
+    # - { key: D,        mods: Alt,   chars: "\x1bd"               }
+    # - { key: Z,        mods: Alt,   chars: "\x1bz"               }
+
+# Add Tmux on startup
+shell:
+  program: /usr/bin/tmux
+  args:
+    - new-session
+    - -A
+    - -D
+    - -s
+    - main
+
+    
+# Pure black theme
+#  # https://github.com/eendroroy/alacritty-theme.git
+# # Campbell (Windows 10 default)
+# colors:
+#   # Default colors
+#   primary:
+#     background: '0x0c0c0c'
+#     foreground: '0xcccccc'
+
+#   # Normal colors
+#   normal:
+#     black:      '0x0c0c0c'
+#     red:        '0xc50f1f'
+#     green:      '0x13a10e'
+#     yellow:     '0xc19c00'
+#     blue:       '0x0037da'
+#     magenta:    '0x881798'
+#     cyan:       '0x3a96dd'
+#     white:      '0xcccccc'
+
+#   # Bright colors
+#   bright:
+#     black:      '0x767676'
+#     red:        '0xe74856'
+#     green:      '0x16c60c'
+#     yellow:     '0xf9f1a5'
+#     blue:       '0x3b78ff'
+#     magenta:    '0xb4009e'
+#     cyan:       '0x61d6d6'
+#     white:      '0xf2f2f2'
+
+
+# Colors (Gruvbox dark)
+colors:
+  # Default colors
+  primary:
+    # hard contrast: background = '0x1d2021'
+    background: '0x282828'
+    # soft contrast: background = '0x32302f'
+    foreground: '0xebdbb2'
+
+  # Normal colors
+  normal:
+    black:   '0x282828'
+    red:     '0xcc241d'
+    green:   '0x98971a'
+    yellow:  '0xd79921'
+    blue:    '0x458588'
+    magenta: '0xb16286'
+    cyan:    '0x689d6a'
+    white:   '0xa89984'
+
+  # Bright colors
+  bright:
+    black:   '0x928374'
+    red:     '0xfb4934'
+    green:   '0xb8bb26'
+    yellow:  '0xfabd2f'
+    blue:    '0x83a598'
+    magenta: '0xd3869b'
+    cyan:    '0x8ec07c'
+    white:   '0xebdbb2'
